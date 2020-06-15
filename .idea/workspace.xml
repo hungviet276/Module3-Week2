@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ca30387-1fa5-4766-a7c6-a128bebb2eaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dAanqekMyIk73jNUahIHByWyF3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\Module 3\Week2\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ca30387-1fa5-4766-a7c6-a128bebb2eaa" name="Default Changelist" comment="" />
+      <created>1591870520103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591870520103</updated>
+      <workItem from="1591870521344" duration="134000" />
+      <workItem from="1591870656363" duration="950000" />
+      <workItem from="1591882699188" duration="4218000" />
+      <workItem from="1591924783845" duration="1221000" />
+      <workItem from="1591935748610" duration="2068000" />
+      <workItem from="1591948421734" duration="3136000" />
+      <workItem from="1591972842168" duration="4286000" />
+      <workItem from="1592014224539" duration="2854000" />
+      <workItem from="1592038690973" duration="3012000" />
+      <workItem from="1592103418744" duration="6972000" />
+      <workItem from="1592121831280" duration="7191000" />
+      <workItem from="1592139258587" duration="6327000" />
+      <workItem from="1592145942376" duration="2904000" />
+      <workItem from="1592183444911" duration="451000" />
+      <workItem from="1592184169380" duration="5945000" />
+      <workItem from="1592203561500" duration="9505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="91" key="FileChooserDialogImpl" timestamp="1591870651258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="91" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591870651258" />
+    <state x="146" y="0" key="SettingsEditor" timestamp="1592017008102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="146" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592017008102" />
+  </component>
+</project>

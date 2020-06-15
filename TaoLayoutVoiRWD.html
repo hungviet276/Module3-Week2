@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RWD</title>
+    <style>
+        body{
+
+        }
+        #header{
+            background-color: black;
+            height: 50px;
+            width: 100%;
+        }
+        #sidebarLeft{
+            background-color: darkgray;
+            width: 20%;
+            height: 400px;
+            float: left;
+        }
+        #content{
+
+            height: 400px;
+            width: 60%;
+            float: left;
+        }
+        #content p,H1{
+            padding-left: 10px;
+            justify-content: center;
+        }
+        #sidebarRight{
+            background-color: #a98aa3;
+            width: 20%;
+            height: 400px;
+            float: left;
+        }
+        #footer{
+            background-color: #2a030e;
+            clear: both;
+            width: 100%;
+            height: 50px;
+        }
+        #header ul li {
+            color: #f0f8ff;
+            padding-top: 10px;
+            vertical-align: center;
+            margin: 0px;
+            position: relative;
+            float: left;
+            list-style: none;
+            display: block;
+            padding-left: 10px;
+        }
+        @media screen and (max-width: 1000px){
+            #sidebarLeft{
+                width: 30%;
+            }
+            #content{
+                width: 70%;
+            }
+            #sidebarRight{
+                width: 100%;
+            }
+        }
+        @media screen and (max-width: 500px){
+            #sidebarLeft{
+                width: 100%;
+            }
+            #content{
+                width: 100%;
+            }
+            #sidebarRight{
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+<div id="header">
+    <ul>
+        <li>Logo</li>
+        <li>Home</li>
+        <li>About</li>
+        <li>Project</li>
+        <li>Contact</li>
+    </ul>
+</div>
+<div id="sidebarLeft"></div>
+<div id="content">
+    <H1>WELLCOME</H1>
+    <hr>
+    <P>Ketsuban thường xuất hiện dưới dạng một khối đồ họa lộn xộn giống như ký tự "d" hoặc "L" bị đảo ngược và xuất hiện trong Pokédex (kho Pokémon) của người chơi với mã số 000. Khi gặp Ketsuban, người chơi sẽ thấy lỗi đồ họa bất thường và khiến số lượng vật phẩm thứ sáu của kho vật phẩm tăng lên thêm 128. Ketsuban được nhà phát hành Nintendo ghi nhận lần đầu tiên trong số phát hành tháng 5 năm 1999 của tạp chí Nintendo Power. Hãng không khuyến khích người chơi nỗ lực "bắt" Ketsuban,</P>
+    <hr>
+    <H1>TEST</H1>
+    <p>Lorem ipsum</p>
+</div>
+<div id="sidebarRight"></div>
+<div id="footer"></div>
+
+</body>
+</html>
